@@ -1,0 +1,27 @@
+Hierarquia de titulo 
+
+<h1>- É o cabeçalho, o titulo principal
+<h2> sub-titulo "principal"  
+<h3>,<h4>,<h5>,h6>- são tambem sub-titulos que vão sempre em ordem caso for necessário
+
+por exemplo:
+<h1>Entendendo a Hierarquia</h1>
+<h2>Hierarquia de titulo</h2>
+<h3>Como são classificadas</h3>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos corporis inventore natus nulla tempore recusandae voluptatem qui officiis architecto numquam soluta temporibus nemo ipsam, ducimus quas eveniet eos suscipit! Ducimus? </p>
+<h3>Outras hierarquias</h3>
+<h4>Hierarquias boas</h4>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos corporis inventore natus nulla tempore recusandae voluptatem qui officiis architecto numquam soluta temporibus nemo ipsam, ducimus quas eveniet eos suscipit! Ducimus?</p>
+<h4>Hierarquias ruim</h4>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos corporis inventore natus nulla tempore recusandae voluptatem qui officiis architecto numquam soluta temporibus nemo ipsam, ducimus quas eveniet eos suscipit! Ducimus?</p>
+
+<h2>Tipos de hierarquia</h2> (Outro sub-titulo "principal")
+<h3>Hierarquia tipo 1</h3>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos corporis inventore natus nulla tempore recusandae voluptatem qui officiis architecto numquam soluta temporibus nemo ipsam, ducimus quas eveniet eos suscipit! Ducimus?</p>
+
+Na primeira parte do exemplo podemos vê que o <h1> é o primeiro nessa hierarquia, onde ele começa pelo titulo principal,cabeçalho que vai dar inicio a historia, introdução, textos etc
+Já o <h2> ele é o sub-titulo "principal" pois ele vai dar sentido para que o assunto daquela determina parte do texto seja introduzido.
+O <h3> ele se torno um espaço para que o texto começasse a ser introduzido, respeitando a hierarquia do <h2>
+Já o 2º <h3> ele continua sendo o assunto englobado pelo <h2> dando continuação ao texto, mas dessa vez dentro do seu parágrafo vem outro sub-titulo que da vez ao h<4> que é o complemento do <h3>
+
+Resumindo, todos sub-titulos precisam respeita a ordem do seu "superior" com isso dar se a entender que <h1,2,3 etc não são classificados para determinar tamanho e sim ordem no texto.
